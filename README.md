@@ -1,6 +1,6 @@
 # Deep Learning Projects
 
-PyTorch & TensorFlow implementations from my 100 Days of ML challenge.
+PyTorch & TensorFlow implementations 
 
 ## Structure
 ├── fundamentals/
